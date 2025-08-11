@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy and configure Google Cloud Intrusion Detection System (Cloud IDS) to detect and analyze security threats in your network infrastructure.
 
-## Video
+## Video 
 
 https://youtu.be/_TF7yUi6uOo
 
