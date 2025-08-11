@@ -10,7 +10,7 @@ https://youtu.be/_TF7yUi6uOo
 
 Cloud IDS is a next-generation advanced intrusion detection service that provides threat detection for intrusions, malware, spyware, and command-and-control attacks. This lab simulates multiple attack scenarios and shows how to view threat details in the Google Cloud console.
 
-## Architecture
+## Architecture 
 
 The lab creates the following infrastructure:
 - Custom VPC network with subnet in us-east1
