@@ -6,7 +6,7 @@ This project demonstrates how to deploy and configure Google Cloud Intrusion Det
 
 https://youtu.be/_TF7yUi6uOo
 
-## Overview   
+## Overview    
 
 Cloud IDS is a next-generation advanced intrusion detection service that provides threat detection for intrusions, malware, spyware, and command-and-control attacks. This lab simulates multiple attack scenarios and shows how to view threat details in the Google Cloud console.
 
